@@ -1,7 +1,4 @@
 
-<img width= "200" src="https://user-images.githubusercontent.com/102250825/232517844-2ec3c3b1-1200-48b1-9c38-0e9008e2c5e1.jpeg">
-
-
 # Introduction #
 
 👋 Hi there! I'm Daniel, a 29-year-old software developer with a diverse background. Before diving into the world of programming in 2022, I spent several years honing my skills in sales. This unique combination of experiences has equipped me with a strong understanding of both the technical and interpersonal aspects of software development.
