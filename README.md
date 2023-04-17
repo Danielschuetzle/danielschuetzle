@@ -1,4 +1,5 @@
-<img width="1181" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232506458-5d8466a3-99c3-4362-b7b8-0fc706d09ded.png">
+
+![TTHG21AH3-U0528DMS947-e3c5992a2834-512](https://user-images.githubusercontent.com/102250825/232517844-2ec3c3b1-1200-48b1-9c38-0e9008e2c5e1.jpeg)
 
 
 # Introduction #
@@ -12,3 +13,8 @@
 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together!
 
 ---
+<img width="1181" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232517749-f4bfb0be-381a-4e41-9ea5-24e75311fc5e.png">
+
+<img width="984" alt="Bildschirmfoto 2023-04-17 um 15 54 09" src="https://user-images.githubusercontent.com/102250825/232517772-47fac953-7668-4e9a-ab56-9b78c4751d6e.png">
+
+<img width="922" alt="Bildschirmfoto 2023-04-17 um 16 14 39" src="https://user-images.githubusercontent.com/102250825/232517787-4c9cda11-cb11-4ad8-82a0-31f5141a6ed0.png">
