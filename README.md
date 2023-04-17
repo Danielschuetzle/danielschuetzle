@@ -1,7 +1,7 @@
 <img width="1181" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232506458-5d8466a3-99c3-4362-b7b8-0fc706d09ded.png">
 
 
-# Hello World from neue Fische #
+# Introduction #
 
 👋 Hi there! I'm Daniel, a 29-year-old software developer with a diverse background. Before diving into the world of programming in 2022, I spent several years honing my skills in sales. This unique combination of experiences has equipped me with a strong understanding of both the technical and interpersonal aspects of software development.
 
