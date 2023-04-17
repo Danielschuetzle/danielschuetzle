@@ -1,3 +1,6 @@
+![react-logo](https://user-images.githubusercontent.com/102250825/232505800-24af7f0a-13ed-4eeb-bc4c-3b381c24d08c.jpg)
+
+
 # Hello World from neue Fische #
 
 👋 Hi there! I'm Daniel, a 29-year-old software developer with a diverse background. Before diving into the world of programming in 2022, I spent several years honing my skills in sales. This unique combination of experiences has equipped me with a strong understanding of both the technical and interpersonal aspects of software development.
