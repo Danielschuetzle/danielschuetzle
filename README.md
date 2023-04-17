@@ -1,4 +1,4 @@
-![react-logo](https://user-images.githubusercontent.com/102250825/232505800-24af7f0a-13ed-4eeb-bc4c-3b381c24d08c.jpg)
+<img width="1181" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232506458-5d8466a3-99c3-4362-b7b8-0fc706d09ded.png">
 
 
 # Hello World from neue Fische #
