@@ -1,9 +1,9 @@
 
-# Introduction #
+# Introduction
 
 👋 Hi there! I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences, such as attending the "neue Fische" coding bootcamp and working in pair programming sessions.
 
-🛠️ Tech Stack:
+# 🛠️ Tech Stack:
 
 HTML, CSS, and JavaScript: Crafting responsive and visually appealing web applications
 React & Next: Building modern, efficient, and scalable user interfaces
@@ -36,7 +36,7 @@ A feature-rich calendar application built with Vue 3 that simplifies scheduling,
 ## Project Web Shop: 
 A robust and scalable e-commerce platform built using Vue 3, offering a user-centric shopping experience with features like product browsing, shopping cart management, and secure payment processing.
 
-🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
+# 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 LinkedIn: https://de.linkedin.com/in/danielschuetzle
 
