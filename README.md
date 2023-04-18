@@ -3,7 +3,7 @@
 
 👋 Hi there! I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences, such as attending the "neue Fische" coding bootcamp and working in pair programming sessions.
 
-# 🛠️ Tech Stack:
+🛠️ Tech Stack:
 
 HTML, CSS, and JavaScript: Crafting responsive and visually appealing web applications
 React & Next: Building modern, efficient, and scalable user interfaces
@@ -12,6 +12,7 @@ Node.js: Developing server-side applications and RESTful APIs
 Figma: Creating user-focused designs and prototypes
 Git: Efficient version control and collaboration
 Scrum: Agile project management and teamwork
+
 📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
 🌟 Highlighted Projects:
@@ -22,7 +23,8 @@ An Airbnb clone built with Ruby on Rails, providing a platform for users to list
 ## Cookbook App: 
 A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
 
-Plant Identifier: A Ruby application utilizing image recognition and APIs to identify plants from user-uploaded pictures. This innovative app highlights my ability to work with APIs, image processing, and database integration.
+## Plant Identifier: 
+A Ruby application utilizing image recognition and APIs to identify plants from user-uploaded pictures. This innovative app highlights my ability to work with APIs, image processing, and database integration.
 
 ## Project Voter: 
 A Vue 3 application that simplifies the voting process by allowing users to create, share, and participate in polls. Project Voter demonstrates my proficiency in Vue 3, user experience design, and secure voting systems.
@@ -36,7 +38,7 @@ A feature-rich calendar application built with Vue 3 that simplifies scheduling,
 ## Project Web Shop: 
 A robust and scalable e-commerce platform built using Vue 3, offering a user-centric shopping experience with features like product browsing, shopping cart management, and secure payment processing.
 
-# 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
+🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 LinkedIn: https://de.linkedin.com/in/danielschuetzle
 
