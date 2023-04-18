@@ -2,7 +2,7 @@
 # Introduction
 
 👋 Hi there! 
-I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences, such as attending the "neue Fische" coding bootcamp and working in pair programming sessions.
+I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences. I've attended two prestigious coding bootcamps: Le Wagon and neue Fische. These bootcamps, combined with pair programming sessions and other collaborative opportunities, have helped me refine my abilities. I'm currently employed as a full-time Frontend Developer at a leading tech company, where I continue to grow and contribute to the development of cutting-edge products and services.
 
 🛠️ Tech Stack:
 
