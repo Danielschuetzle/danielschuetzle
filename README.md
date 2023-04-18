@@ -51,7 +51,7 @@ A robust and scalable e-commerce platform built using Vue 3, offering a user-cen
 
 ---
 <a href="https://www.digital-now.org">
-    <img width="75" src="https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg" alt="Website link" style="display: block; margin-right: 100px;">
+    <img width="75" src="https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg" alt="Website link" style="margin-right:15px;">
 </a>
 
 
