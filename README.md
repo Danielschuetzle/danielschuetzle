@@ -49,6 +49,7 @@ A robust and scalable e-commerce platform built using Vue 3, offering a user-cen
 
 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
+
 <a href="https://www.digital-now.org">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg" alt="Website link" style="padding-right:15px;">
 </a>
