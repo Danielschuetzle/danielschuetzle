@@ -14,7 +14,7 @@ Git: Efficient version control and collaboration
 Scrum: Agile project management and teamwork
 📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
-🌟 ## Highlighted Projects:
+🌟 ##Highlighted Projects:##
 
 Firebnb: An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
 
