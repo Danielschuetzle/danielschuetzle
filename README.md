@@ -50,12 +50,12 @@ A robust and scalable e-commerce platform built using Vue 3, offering a user-cen
 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 ---
-<img width="150" src= "https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg">
+<img width="75" src= "https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg" href="www.digital-now.org">
 
 
-![LinkedIn_logo_initials](https://user-images.githubusercontent.com/102250825/232706104-afcaf0a6-c9ba-42b5-8e27-ee360b5c73a1.png)
+<img width="75" src= "https://user-images.githubusercontent.com/102250825/232706104-afcaf0a6-c9ba-42b5-8e27-ee360b5c73a1.png" href="https://de.linkedin.com/in/danielschuetzle">
 
-![552486](https://user-images.githubusercontent.com/102250825/232706171-10112536-9e81-4e9c-abfe-208f434c9040.png)
+<img width="75" src="https://user-images.githubusercontent.com/102250825/232706171-10112536-9e81-4e9c-abfe-208f434c9040.png" href="@Daniel.schuetzle@digital-now.org">
 
 #### LinkedIn: 
 https://de.linkedin.com/in/danielschuetzle
