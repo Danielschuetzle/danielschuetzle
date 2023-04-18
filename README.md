@@ -31,7 +31,7 @@ An Airbnb clone built with Ruby on Rails, providing a platform for users to list
 ### Cookbook App: 
 A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
 
-### Plant Identifier: 
+### Plant Life: 
 A Ruby application utilizing image recognition and APIs to identify plants from user-uploaded pictures. This innovative app highlights my ability to work with APIs, image processing, and database integration.
 
 ### Project Voter: 
