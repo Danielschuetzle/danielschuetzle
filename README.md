@@ -6,19 +6,19 @@ I'm Daniel, a dedicated and versatile software developer with a passion for crea
 
 🛠️ Tech Stack:
 
-HTML, CSS, and JavaScript: 
+- HTML, CSS, and JavaScript: 
 Crafting responsive and visually appealing web applications
-React & Next: 
+- React & Next: 
 Building modern, efficient, and scalable user interfaces
-MongoDB & NoSQL: 
+- MongoDB & NoSQL: 
 Designing and managing flexible, high-performance databases
-Node.js: 
+- Node.js: 
 Developing server-side applications and RESTful APIs
-Figma: 
+- Figma: 
 Creating user-focused designs and prototypes
-Git: 
+- Git: 
 Efficient version control and collaboration
-Scrum: 
+- Scrum: 
 Agile project management and teamwork
 
 📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
