@@ -1,24 +1,32 @@
 
 # Introduction
 
-👋 Hi there! I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences, such as attending the "neue Fische" coding bootcamp and working in pair programming sessions.
+👋 Hi there! 
+I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences, such as attending the "neue Fische" coding bootcamp and working in pair programming sessions.
 
 🛠️ Tech Stack:
 
-HTML, CSS, and JavaScript: Crafting responsive and visually appealing web applications
-React & Next: Building modern, efficient, and scalable user interfaces
-MongoDB & NoSQL: Designing and managing flexible, high-performance databases
-Node.js: Developing server-side applications and RESTful APIs
-Figma: Creating user-focused designs and prototypes
-Git: Efficient version control and collaboration
-Scrum: Agile project management and teamwork
+HTML, CSS, and JavaScript: 
+Crafting responsive and visually appealing web applications
+React & Next: 
+Building modern, efficient, and scalable user interfaces
+MongoDB & NoSQL: 
+Designing and managing flexible, high-performance databases
+Node.js: 
+Developing server-side applications and RESTful APIs
+Figma: 
+Creating user-focused designs and prototypes
+Git: 
+Efficient version control and collaboration
+Scrum: 
+Agile project management and teamwork
 
 📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
 ## 🌟 Highlighted Projects:
 
 ### Firebnb: 
-- An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
+An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
 
 ### Cookbook App: 
 A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
