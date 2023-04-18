@@ -14,21 +14,27 @@ Git: Efficient version control and collaboration
 Scrum: Agile project management and teamwork
 📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
-🌟 ##Highlighted Projects:##
+🌟 Highlighted Projects:
 
-Firebnb: An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
+## Firebnb: 
+An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
 
-Cookbook App: A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
+## Cookbook App: 
+A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
 
 Plant Identifier: A Ruby application utilizing image recognition and APIs to identify plants from user-uploaded pictures. This innovative app highlights my ability to work with APIs, image processing, and database integration.
 
-Project Voter: A Vue 3 application that simplifies the voting process by allowing users to create, share, and participate in polls. Project Voter demonstrates my proficiency in Vue 3, user experience design, and secure voting systems.
+## Project Voter: 
+A Vue 3 application that simplifies the voting process by allowing users to create, share, and participate in polls. Project Voter demonstrates my proficiency in Vue 3, user experience design, and secure voting systems.
 
-Project Kanbanboard: A dynamic and customizable Kanban board application built with Vue 3, designed to help teams manage tasks, workflows, and project progress. This app showcases my skills in real-time collaboration, drag-and-drop functionality, and powerful filtering options.
+## Project Kanbanboard: 
+A dynamic and customizable Kanban board application built with Vue 3, designed to help teams manage tasks, workflows, and project progress. This app showcases my skills in real-time collaboration, drag-and-drop functionality, and powerful filtering options.
 
-Project Calender: A feature-rich calendar application built with Vue 3 that simplifies scheduling, event management, and reminders. Project Calender highlights my ability to create responsive, user-friendly applications with seamless cross-device integration.
+## Project Calender: 
+A feature-rich calendar application built with Vue 3 that simplifies scheduling, event management, and reminders. Project Calender highlights my ability to create responsive, user-friendly applications with seamless cross-device integration.
 
-Project Web Shop: A robust and scalable e-commerce platform built using Vue 3, offering a user-centric shopping experience with features like product browsing, shopping cart management, and secure payment processing.
+## Project Web Shop: 
+A robust and scalable e-commerce platform built using Vue 3, offering a user-centric shopping experience with features like product browsing, shopping cart management, and secure payment processing.
 
 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
