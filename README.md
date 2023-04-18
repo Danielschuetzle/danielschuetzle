@@ -18,7 +18,7 @@ Scrum: Agile project management and teamwork
 # 🌟 Highlighted Projects:
 
 ## Firebnb: 
-An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
+- An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
 
 ## Cookbook App: 
 A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
@@ -43,9 +43,9 @@ A robust and scalable e-commerce platform built using Vue 3, offering a user-cen
 🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 ---
-LinkedIn: https://de.linkedin.com/in/danielschuetzle
-Email: Daniel.schuetzle@digital-now.org
-Personal Website: www.digital-now.org
+- LinkedIn: https://de.linkedin.com/in/danielschuetzle
+- Email: Daniel.schuetzle@digital-now.org
+- Personal Website: www.digital-now.org
 
 ---
 <img width="900" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232517749-f4bfb0be-381a-4e41-9ea5-24e75311fc5e.png">
