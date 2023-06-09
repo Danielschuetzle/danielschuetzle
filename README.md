@@ -29,31 +29,35 @@ Throughout my journey, I've acquired proficiency in various technologies and met
 #### 🐠 Fish App:
 A backend application using React to manage fish data in an interactive and user-friendly way.
 
-#### 🎭 Random Character Generator API:
-A Node.js-based API providing random character data. It demonstrates my proficiency in backend development and data handling.
+## 🌿 Plant Life
+Plant Life Identifier is a Ruby-based application that leverages the power of image recognition and APIs to identify plants from user-uploaded pictures. This innovative app simplifies the process of discovering plant species by automating the search process and connecting to a comprehensive plant database via API.
 
-#### 🛰️ ISS Tracker:
+## 🏠 Firebnb
+Firebnb is a Ruby on Rails project that recreates the functionality of popular lodging service Airbnb. 
+
+## 📒 Cookbook
+A comprehensive and user-friendly cookbook application designed to manage recipes. It follows the MVC (Model, View, Controller) pattern, similar to Rails, and persists data using a CSV file for storage.
+
+## 📋 Project Kanbanboard
+A dynamic, intuitive, and customizable Kanban board application to help teams efficiently manage tasks, workflows, and project progress. This app offers real-time collaboration, drag-and-drop functionality, and powerful filtering options to optimize productivity and organization. Developed using Vue3.
+
+## 🛍️ Project Web Shop
+A robust and scalable e-commerce platform offering an engaging and user-centric shopping experience. This project supports a wide range of features, including product browsing, shopping cart management, secure payment processing, and order tracking, all within an aesthetically pleasing and easy-to-navigate interface. Developed using Vue3.
+
+## 🛰️ ISS Tracker:
 A real-time International Space Station (ISS) tracking application built with React. This project emphasizes my skills in using external APIs and creating interactive interfaces.
 
-#### 🌌 Star Wars Data Fetching:
+## 🌌 Star Wars Data Fetching:
 A React application that fetches and displays data from the Star Wars API, showcasing my ability to work with external APIs.
 
-#### 🏎️ Immutable State Car Race:
-A fun and interactive car race game developed in React. It demonstrates my skills in managing the state in a React application.
-
-#### 💍 Lord of the Rings App:
+### 💍 Lord of the Rings App:
 A Next.js application dedicated to the Lord of the Rings franchise, featuring character bios, plot summaries, and more.
 
-#### 👽 Rick and Morty Wiki:
-An informative JavaScript wiki for the popular animated show, Rick and Morty, providing character information and episode recaps.
-
-#### 📝 Journal App:
+## 📝 Journal App:
 A React application designed for personal journaling. This project displays my ability to create user-specific content.
 
-#### 🌤️ Weather App:
-A React application providing real-time weather updates for any location.
 
-#### 🤖 Auto-GPT:
+## 🤖 Auto-GPT:
 An experimental open-source attempt to make GPT-4 fully autonomous. It showcases my interest in AI and machine learning.
 
 ## 🌐 Let's Connect!
