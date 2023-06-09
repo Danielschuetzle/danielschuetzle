@@ -66,7 +66,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous. It showcases
 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 <a href="https://www.digital-now.org">
-    <img width="50" src="https://github.com/Danielschuetzle/danielschuetzle/assets/102250825/76ce1dc5-f524-48e0-be43-2b3fa87eec16.png" alt="Website link" style="padding-right:15px;">
+    <img width="50" src=[Element-13Logo_Digital_Now2-2](https://github.com/Danielschuetzle/danielschuetzle/assets/102250825/0c365349-c82d-4e89-8d29-f36ff313fabe) alt="Website link" style="padding-right:15px;">
 </a>
 
 <a href="https://de.linkedin.com/in/danielschuetzle">
@@ -76,4 +76,5 @@ I'm always eager to learn, collaborate, and contribute to the tech community. Le
 <a href="mailto:Daniel.schuetzle@digital-now.org">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706171-10112536-9e81-4e9c-abfe-208f434c9040.png" alt="Email ">
 </a>
+
 
