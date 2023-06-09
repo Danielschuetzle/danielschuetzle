@@ -68,7 +68,6 @@ I'm always eager to learn, collaborate, and contribute to the tech community. Le
 <a href="https://de.linkedin.com/in/danielschuetzle">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706104-afcaf0a6-c9ba-42b5-8e27-ee360b5c73a1.png" alt="LinkedIn link" style="padding-right:15px;">
 </a>
-<br>
 <a href="mailto:Daniel.schuetzle@digital-now.org">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706171-10112536-9e81-4e9c-abfe-208f434c9040.png" alt="Email ">
 </a>
