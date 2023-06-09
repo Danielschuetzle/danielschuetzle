@@ -22,7 +22,7 @@ Agile project management and teamwork 🚀
 
 ## 📚 Learning Journey:
 
-Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
+Throughout my journey, I've acquired proficiency in various technologies and methodologies, including React, Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
 ## 🌟 Highlighted Projects:
 
