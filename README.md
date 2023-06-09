@@ -26,7 +26,7 @@ Throughout my journey, I've acquired proficiency in various technologies and met
 
 # 🌟 Highlighted Projects:
 
-## 🌿 [Plant Life](<a href="https://github.com/Danielschuetzle/plant-life" style="color: #FF0000">Plant Life</a>)
+## 🌿 [Plant Life]<a href="https://github.com/Danielschuetzle/plantlife" style="color: #FF0000">Plant Life</a>
 
 Plant Life Identifier is a Ruby-based application that leverages the power of image recognition and APIs to identify plants from user-uploaded pictures. This innovative app simplifies the process of discovering plant species by automating the search process and connecting to a comprehensive plant database via API.
 
