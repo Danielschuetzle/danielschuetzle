@@ -1,59 +1,69 @@
-
 # Introduction
 
 👋 Hi there! 
 I'm Daniel, a dedicated and versatile software developer with a passion for creating innovative and user-centric web applications. My journey into the world of programming began in 2022, and I have since honed my skills through a combination of self-learning and collaborative experiences. I've attended two prestigious coding bootcamps: Le Wagon 🚂 and neue Fische 🐠. These bootcamps, combined with pair programming sessions and other collaborative opportunities, have helped me refine my abilities. I'm currently employed as a full-time Frontend Developer at a leading tech company, where I continue to grow and contribute to the development of cutting-edge products and services.
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
 - HTML, CSS, and JavaScript: 
-Crafting responsive and visually appealing web applications
+Crafting responsive and visually appealing web applications 🎨
 - React & Next: 
-Building modern, efficient, and scalable user interfaces
+Building modern, efficient, and scalable user interfaces ⚛️
 - MongoDB & NoSQL: 
-Designing and managing flexible, high-performance databases
+Designing and managing flexible, high-performance databases 🗄️
 - Node.js: 
-Developing server-side applications and RESTful APIs
+Developing server-side applications and RESTful APIs ⚡
 - Figma: 
-Creating user-focused designs and prototypes
+Creating user-focused designs and prototypes 📐
 - Git: 
-Efficient version control and collaboration
+Efficient version control and collaboration 🤝
 - Scrum: 
-Agile project management and teamwork
+Agile project management and teamwork 🚀
 
-📚 Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
+## 📚 Learning Journey:
 
-### 🌟 Highlighted Projects:
+Throughout my journey, I've acquired proficiency in various technologies and methodologies, including Vue 3 and Ruby on Rails. My repositories showcase a diverse range of projects, demonstrating my ability to adapt to different frameworks and tools while delivering high-quality software solutions.
 
-### Firebnb: 
-An Airbnb clone built with Ruby on Rails, providing a platform for users to list, discover, and book unique accommodations. Firebnb demonstrates my skills in user authentication, booking systems, and responsive design.
+## 🌟 Highlighted Projects:
 
-### Cookbook App: 
-A Ruby on Rails-based web application that helps users organize, store, and share their favorite recipes. The Cookbook App showcases my expertise in recipe management, rich-text editing, and personalized user profiles.
+#### 🐠 Fish App:
+A backend application using React to manage fish data in an interactive and user-friendly way.
 
-### Plant Life: 
-A Ruby application utilizing image recognition and APIs to identify plants from user-uploaded pictures. This innovative app highlights my ability to work with APIs, image processing, and database integration.
+#### 🎭 Random Character Generator API:
+A Node.js-based API providing random character data. It demonstrates my proficiency in backend development and data handling.
 
-### Project Voter: 
-A Vue 3 application that simplifies the voting process by allowing users to create, share, and participate in polls. Project Voter demonstrates my proficiency in Vue 3, user experience design, and secure voting systems.
+#### 🛰️ ISS Tracker:
+A real-time International Space Station (ISS) tracking application built with React. This project emphasizes my skills in using external APIs and creating interactive interfaces.
 
-### Project Kanbanboard: 
-A dynamic and customizable Kanban board application built with Vue 3, designed to help teams manage tasks, workflows, and project progress. This app showcases my skills in real-time collaboration, drag-and-drop functionality, and powerful filtering options.
+#### 🌌 Star Wars Data Fetching:
+A React application that fetches and displays data from the Star Wars API, showcasing my ability to work with external APIs.
 
-### Project Calender: 
-A feature-rich calendar application built with Vue 3 that simplifies scheduling, event management, and reminders. Project Calender highlights my ability to create responsive, user-friendly applications with seamless cross-device integration.
+#### 🏎️ Immutable State Car Race:
+A fun and interactive car race game developed in React. It demonstrates my skills in managing the state in a React application.
 
-### Project Web Shop: 
-A robust and scalable e-commerce platform built using Vue 3, offering a user-centric shopping experience with features like product browsing, shopping cart management, and secure payment processing.
+#### 💍 Lord of the Rings App:
+A Next.js application dedicated to the Lord of the Rings franchise, featuring character bios, plot summaries, and more.
 
+#### 👽 Rick and Morty Wiki:
+An informative JavaScript wiki for the popular animated show, Rick and Morty, providing character information and episode recaps.
 
-🌐 I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
+#### 📝 Journal App:
+A React application designed for personal journaling. This project displays my ability to create user-specific content.
 
+#### 🌤️ Weather App:
+A React application providing real-time weather updates for any location.
+
+#### 🤖 Auto-GPT:
+An experimental open-source attempt to make GPT-4 fully autonomous. It showcases my interest in AI and machine learning.
+
+## 🌐 Let's Connect!
+
+I'm always eager to learn, collaborate, and contribute to the tech community. Let's connect and create something amazing together! If you're interested in working on a project or simply want to chat, feel free to reach out:
 
 <a href="https://www.digital-now.org">
-    <img width="50" src="https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74c4238eef8.jpg" alt="Website link" style="padding-right:15px;">
+    <img width="50" src="https://user-images.githubusercontent.com/102250825/232706212-6ce8940e-b3f8-4b9e-8369-b74
+c4238eef8.jpg" alt="Website link" style="padding-right:15px;">
 </a>
-
 
 <a href="https://de.linkedin.com/in/danielschuetzle">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706104-afcaf0a6-c9ba-42b5-8e27-ee360b5c73a1.png" alt="LinkedIn link" style="padding-right:15px;">
@@ -62,9 +72,6 @@ A robust and scalable e-commerce platform built using Vue 3, offering a user-cen
 <a href="mailto:Daniel.schuetzle@digital-now.org">
     <img width="50" src="https://user-images.githubusercontent.com/102250825/232706171-10112536-9e81-4e9c-abfe-208f434c9040.png" alt="Email ">
 </a>
-
----
-
 <img width="400" alt="Bildschirmfoto 2023-04-17 um 15 58 11" src="https://user-images.githubusercontent.com/102250825/232517749-f4bfb0be-381a-4e41-9ea5-24e75311fc5e.png">
 
 <img width="400" alt="Bildschirmfoto 2023-04-17 um 15 54 09" src="https://user-images.githubusercontent.com/102250825/232517772-47fac953-7668-4e9a-ab56-9b78c4751d6e.png">
