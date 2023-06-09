@@ -26,39 +26,39 @@ Throughout my journey, I've acquired proficiency in various technologies and met
 
 # 🌟 Highlighted Projects:
 
-## 🌿 [Plant Life]<a href="https://github.com/Danielschuetzle/plantlife" style="color: #FF0000">Plant Life</a>
+## 🌿 [Plant Life](https://github.com/Danielschuetzle/plantlife)
 
 Plant Life Identifier is a Ruby-based application that leverages the power of image recognition and APIs to identify plants from user-uploaded pictures. This innovative app simplifies the process of discovering plant species by automating the search process and connecting to a comprehensive plant database via API.
 
-## 🛍️ Project Web Shop
+## 🛍️ [Web Shop with API](https://github.com/Vue-3-Shop-mit-Composition-API)
 A robust and scalable e-commerce platform offering an engaging and user-centric shopping experience. This project supports a wide range of features, including product browsing, shopping cart management, secure payment processing, and order tracking, all within an aesthetically pleasing and easy-to-navigate interface. Developed using Vue3.
 
 
-## 🏠 Firebnb
+## 🏠 [FireBnB](https://github.com/Rails-FireBnB)
 Firebnb is a Ruby on Rails project that recreates the functionality of popular lodging service Airbnb. 
 
-## 📋 Project Kanbanboard
+## 📋 [Kanbanboard](https://github.com/Vue-3-Kanbanboard-App)
 A dynamic, intuitive, and customizable Kanban board application to help teams efficiently manage tasks, workflows, and project progress. This app offers real-time collaboration, drag-and-drop functionality, and powerful filtering options to optimize productivity and organization. Developed using Vue3.
 
-## 🐠 Fish App:
+## 🐠 [Fish App](https://github.com/backend-react-fish-app)
 A backend application using React to manage fish data in an interactive and user-friendly way.
 
-## 📒 Cookbook
+## 📒 [Cookbook](https://github.com/Cookbook-with-Ruby)
 A comprehensive and user-friendly cookbook application designed to manage recipes. It follows the MVC (Model, View, Controller) pattern, similar to Rails, and persists data using a CSV file for storage.
 
-## 🛰️ ISS Tracker:
+## 🛰️ [ISS Tracker](https://github.com/react-data-fetching-iss-tracker)
 A real-time International Space Station (ISS) tracking application built with React. This project emphasizes my skills in using external APIs and creating interactive interfaces.
 
-## 🌌 Star Wars Data Fetching:
+## 🌌 [Star Wars Fetcher](https://github.com/react-data-fetching-star-wars)
 A React application that fetches and displays data from the Star Wars API, showcasing my ability to work with external APIs.
 
-## 💍 Lord of the Rings App:
+## 💍 [Lord of the Rings](https://github.com/Next-JS-Lord-of-the-Rings-App)
 A Next.js application dedicated to the Lord of the Rings franchise, featuring character bios, plot summaries, and more.
 
-## 📝 Journal App:
+## 📝 [Journal](https://github.com/React-Journal-App)
 A React application designed for personal journaling. This project displays my ability to create user-specific content.
 
-## 🤖 Auto-GPT:
+## 🤖 [Auto GPT](https://github.com/Auto-GPT)
 An experimental open-source attempt to make GPT-4 fully autonomous. It showcases my interest in AI and machine learning.
 
 ## 🌐 Let's Connect!
