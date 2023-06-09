@@ -50,7 +50,7 @@ A real-time International Space Station (ISS) tracking application built with Re
 ## 🌌 Star Wars Data Fetching:
 A React application that fetches and displays data from the Star Wars API, showcasing my ability to work with external APIs.
 
-### 💍 Lord of the Rings App:
+## 💍 Lord of the Rings App:
 A Next.js application dedicated to the Lord of the Rings franchise, featuring character bios, plot summaries, and more.
 
 ## 📝 Journal App:
